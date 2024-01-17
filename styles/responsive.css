@@ -20,6 +20,8 @@
     font-size: 3rem;
 }
 
+
+
 .select-box-container{
 
 }
@@ -269,6 +271,7 @@ margin-bottom: 30px;
 
 
 
+/* mobile responsive  */
 
 
 @media screen and (min-width:601px) and (max-width:992px) {
@@ -568,6 +571,6 @@ margin-bottom: 30px;
     
     }
     
+    /* medium or tablet responsive */
     
-}
 
